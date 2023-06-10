@@ -5,7 +5,7 @@ from urllib.parse import urlparse, parse_qs
 # Configurações do banco de dados
 db_config = {
     'user': 'root',
-    'password': 'Rcfecfccf3108!',
+    'password': 'password',
     'host': 'localhost',
     'database': 'eratostenes',
 }
