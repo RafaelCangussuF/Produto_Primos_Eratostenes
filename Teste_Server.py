@@ -37,7 +37,3 @@ print('Servidor iniciado na porta 8000...')
 httpd.serve_forever()
 
 
-"""'user': 'seu_usuario',
-    'password': 'sua_senha',
-    'host': 'localhost',
-    'database': 'seu_banco_de_dados',"""
