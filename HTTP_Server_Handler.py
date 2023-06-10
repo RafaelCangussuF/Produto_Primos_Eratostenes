@@ -4,10 +4,10 @@ from urllib.parse import urlparse, parse_qs
 
 # Configurações do banco de dados
 db_config = {
-    'user': 'root',
-    'password': 'Rcfecfccf3108!',
+    'user': 'seu_usuario',
+    'password': 'sua_senha',
     'host': 'localhost',
-    'database': 'eratostenes',
+    'database': 'seu_banco_de_dados',
 }
 
 
