@@ -36,7 +36,7 @@ def insertDatabase(tuplas):
     cnx = mysql.connector.connect(
         host='localhost',
         user='root',
-        password='Rcfecfccf3108!',
+        password='password',
         database='eratostenes'
     )
 
