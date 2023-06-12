@@ -1,11 +1,16 @@
 # Produto_Primos_Eratostenes
 
 Links do Github: 
+
 Servidor e código para popular o banco de dados:
+
 https://github.com/RafaelCangussuF/Produto_Primos_Eratostenes/
+
 Aplicação mobile:
+
 https://github.com/samubarbosa1/Crivo-ReactNative
 
+Explicação:
 
 Os códigos em Python Crivo_Eratostenes.py e HTTP_Server_Handler.py devem ser preenchidos com os dados do banco de dados no qual se deseja popular com os primos e, consequentemente, acessar com o servidor HTTP_Server_Handler.py.
 
