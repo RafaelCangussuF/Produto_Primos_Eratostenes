@@ -1,5 +1,13 @@
 # Produto_Primos_Eratostenes
 
+
+Grupo do trabalho:
+Rafael Cangussú Ferreira
+Samuel Barbosa
+Renato da Paixão Alves
+Felipe Lins dos Santos
+Mateus Lima Silveira
+
 Links do Github: 
 
 Servidor e código para popular o banco de dados:
