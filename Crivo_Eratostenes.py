@@ -55,3 +55,5 @@ def insertDatabase(tuplas):
 
     cursor.close()
     cnx.close()
+
+insertDatabase(tuplas)
